@@ -83,8 +83,8 @@ My little corner of the internet, where I show who I am and what I've built.
 
 ## 🤝 Let's connect
 
-- 📧 Email: [your email]
-- 💼 LinkedIn: [your LinkedIn URL]
+- 📧 Email: iamlikthgowda@gmail.com
+- 💼 LinkedIn: 
 - 🌐 Portfolio: [your deployed portfolio link]
 
 <p align="center">
