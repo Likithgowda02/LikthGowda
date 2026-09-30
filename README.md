@@ -56,15 +56,15 @@ Ever wished your music player just *got* your mood? This project uses your webca
 
 ### ⚖️ [NyayaSetu](https://github.com/Likithgowda02/NyayaSetu-)
 *Justice made accessible.* [Write 1–2 lines: who it helps, what problem it solves, and your role in it.]
-**Built with:** JavaScript, [add your stack]
+**Built with:** JavaScript, React.js, Springboot, java, MySQL.
 
 ### 🔍 [GST Fraud Detection](https://github.com/Likithgowda02/GST-Fraud-Detection)
-[Write 1–2 lines: what kind of fraud it detects, how (rules, ML, dashboard?), and who would use it.]
-**Built with:** HTML, [add your stack]
+what kind of fraud it detects, how (rules, ML, dashboard?), and who would use it.
+**Built with:** HTML, Random forest, XGBoost, React.js, Typescript
 
 ### 🏦 [E-Banking](https://github.com/Likithgowda02/E-Bankingg)
 [Write 1–2 lines: what a user can do in it, such as transfers, balance, login, and any features you're proud of.]
-**Built with:** JavaScript, [add your stack]
+**Built with:** JavaScript, React.js, Springboot, redis, MySQL, Docker.
 
 ### 🌐 [Personal Portfolio](https://github.com/Likithgowda02/Likith-portfolio)
 My little corner of the internet, where I show who I am and what I've built.
@@ -85,7 +85,7 @@ My little corner of the internet, where I show who I am and what I've built.
 
 - 📧 Email: iamlikthgowda@gmail.com
 - 💼 LinkedIn: 
-- 🌐 Portfolio: [your deployed portfolio link]
+- 🌐 Portfolio: 
 
 <p align="center">
   <i>Thanks for stopping by! If something here caught your eye, drop a ⭐ or say hi.</i>
