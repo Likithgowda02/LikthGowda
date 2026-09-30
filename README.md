@@ -74,9 +74,9 @@ My little corner of the internet, where I show who I am and what I've built.
 
 ## 🤝 Let's connect
 
-- 📧 Email: iamlikthgowda@gmail.com
-- 💼 LinkedIn: 
-- 🌐 Portfolio: 
+- 📧 Email: iamlikithgowda@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/likith-gowda-84a425363/
+- 🌐 Portfolio: https://likith-portfolio-one.vercel.app/
 
 <p align="center">
   <i>Thanks for stopping by! If something here caught your eye, drop a ⭐ or say hi.</i>
