@@ -72,15 +72,6 @@ My little corner of the internet, where I show who I am and what I've built.
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Likithgowda02&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likithgowda02&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🤝 Let's connect
 
 - 📧 Email: iamlikthgowda@gmail.com
